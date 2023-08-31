@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://github.com/ChiranthanS/ChiranthanS/blob/main/Chiranthan_Shadaksharaswamy_resume.pdf](https://github.com/ChiranthanS/ChiranthanS/blob/main/Chiranthan_Shadaksharaswamy_resume.pdf)
 
-- ⚡ Fun fact **I**
+- ⚡ Fun fact **Amateur astronomer, aspiring stargazing photographer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
