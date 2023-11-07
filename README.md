@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Terraform and Django**
 
-- 👯 I’m looking to collaborate on **DevOps/CLoud Projects**
+- 👯 I’m looking to collaborate on **DevOps/Cloud Projects**
 
 - 🤝 I’m looking for help with **CircleCi and Django**
 
