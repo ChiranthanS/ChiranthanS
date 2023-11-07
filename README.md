@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Terraform and Django**
 
-- 👯 I’m looking to collaborate on **DevOps Projects**
+- 👯 I’m looking to collaborate on **DevOps/CLoud Projects**
 
 - 🤝 I’m looking for help with **CircleCi and Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChiranthanS/](https://github.com/ChiranthanS/)
 
-- 💬 Ask me about **Jenkins, CI/CD, ReactJS and Flask**
+- 💬 Ask me about **Jenkins, CI/CD, Bash and Flask**
 
 - 📫 How to reach me **chiranthan.s19@gmail.com**
 
