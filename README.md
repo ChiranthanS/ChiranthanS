@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **chiranthan.s19@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/ChiranthanS/ChiranthanS/blob/main/Chiranthan_Shadaksharaswamy_resume.pdf](https://github.com/ChiranthanS/ChiranthanS/blob/main/Chiranthan_Shadaksharaswamy_resume.pdf)
+- 📄 Know about my experiences [https://github.com/ChiranthanS/ChiranthanS/blob/main/Chiranthan_Resume_2026.pdf](https://github.com/ChiranthanS/ChiranthanS/blob/main/Chiranthan_Resume_2026.pdf)
 
 - ⚡ Fun fact **Amateur astronomer, aspiring stargazing photographer.**
 
